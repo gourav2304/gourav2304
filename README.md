@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gbgourav2304@gmail.com**
 
-- ⚡ Fun fact **I am funnny 😅**
+- ⚡ Fun fact **I love coding 💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

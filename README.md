@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourav2304&label=Profile%20views&color=0e75b6&style=flat" alt="gourav2304" /> </p>
 
-- 🌱 I’m currently learning **JavaSCript,React**
+- 🌱 I’m currently learning **JavaSCript,React,Node,Express**
 
 - 📫 How to reach me **gbgourav2304@gmail.com**
 
-- ⚡ Fun fact **I love coding 💻**
+- ⚡ Fun fact **I love coding 💻 day and night**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
